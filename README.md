@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Giovanna, or @Kraehe
+- 👋 Howdy, I’m Giovanna, or @Kraehe here on Github.
 - 📫 You can reach me at giovanna@nyu.edu (:
 
 <!---
