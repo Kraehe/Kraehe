@@ -1,6 +1,19 @@
-- 👋 Howdy, I’m Giovanna, or @Kraehe here on Github.
+### `<! -- welcome! -->`
+hi, i'm gia!
 
-<!---
-Kraehe/Kraehe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### <! -- what i'm up to -->
+- leading the computer programming club @ CUNY BMCC
+- teaching the new gen in NYC (HTML/CSS/JS, and more!)
+- tinkering with electronics
+-  growing with some cool communities:
+
+	* **Girls Who Code** (viacom SIP alum! <3)
+	* **Black Girls Code** 
+	* **CodePath** 
+	* **Rewriting The Code** && **ColorStack** (new member to these communities!)
+- && keeping up w my studies!
+
+### <! -- my #goals -->
+- to build and contribute to cool projects!
+- to gain github followers for clout >:3 && healthy competition ofc
+- to have a healthy sleep schedule :')
